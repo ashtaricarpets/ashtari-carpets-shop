@@ -1,0 +1,43 @@
+// 1. Import the initial variables
+// @import "~bulma/sass/utilities/initial-variables";
+// @import "~bulma/sass/utilities/functions";
+
+$danger: red;
+$primary: #A08641;
+$link: $primary;
+$success: #2B854A;
+
+$radius-small: 2px;
+$radius: 2px;
+$radius-large: 2px;
+
+$tablet: 600px;
+
+$table-background-color: transparent;
+$table-cell-border: none;
+
+$modal-content-width: 66%;
+
+@import "~bulma/bulma";
+// @import "~bulma/sass/base/animations";
+// @import "~bulma/sass/utilities/mixins";
+// @import "~bulma/sass/utilities/controls";
+
+// // 6. Import the rest of Bulma
+// @import "~bulma/sass/base/_all";
+// @import "~bulma/sass/elements/box";
+// @import "~bulma/sass/elements/button";
+// @import "~bulma/sass/elements/container";
+// @import "~bulma/sass/elements/content";
+// @import "~bulma/sass/form/_all";
+// @import "~bulma/sass/elements/image";
+// @import "~bulma/sass/elements/table";
+// @import "~bulma/sass/elements/tag";
+// @import "~bulma/sass/grid/columns";
+// @import "~bulma/sass/grid/tiles";
+// @import "~bulma/sass/components/card";
+// @import "~bulma/sass/components/media";
+// @import "~bulma/sass/components/message";
+// @import "~bulma/sass/components/modal";
+// @import "~bulma/sass/components/navbar";
+// @import "~bulma/sass/components/tabs";

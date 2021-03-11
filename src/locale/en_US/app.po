@@ -1,0 +1,587 @@
+# English translations for ashtari-carpets-webshop package.
+# Copyright (C) 2018 THE ashtari-carpets-webshop'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ashtari-carpets-webshop package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ashtari-carpets-webshop 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-11 17:57+0100\n"
+"PO-Revision-Date: 2018-12-21 16:00+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: src/components/ActiveFilterWarning.vue:12
+msgid "Active filter:"
+msgid_plural "Active filters:"
+msgstr[0] "Active filter"
+msgstr[1] "Active filters"
+
+#: src/components/ActiveFilterWarning.vue:58
+#: src/components/ActiveFilterWarning.vue:64
+#: src/components/ActiveFilterWarning.vue:71
+#: src/components/ActiveFilterWarning.vue:78
+#, fuzzy
+msgid "activeFilter"
+msgstr "Active filter"
+
+#: src/components/ExtraTranslations.vue:2
+msgid "age"
+msgstr "age"
+
+#: src/components/ExtraTranslations.vue:47
+msgid "asc"
+msgstr "ascending"
+
+#: src/components/FooterLinks.vue:5
+msgid "B2B"
+msgstr "B2B"
+
+#: src/components/BackButton.vue:5
+msgid "Back"
+msgstr "Back"
+
+#: src/components/CartModal.vue:114
+msgid "Billing Address"
+msgstr ""
+
+#: src/components/CartModal.vue:141
+msgid "Billing and shipping address are the same"
+msgstr "Billing and shipping address are the same"
+
+#: src/components/ExtraTranslations.vue:44
+msgid "blauw"
+msgstr "<img class=\"img-color\" src=\"static/images/blauw.png\" alt=\"blue\" />"
+
+#: src/components/ExtraTranslations.vue:42
+msgid "bruin"
+msgstr "<img class=\"img-color\" src=\"static/images/bruin.png\" alt=\"brown\" />"
+
+#: src/components/ExtraTranslations.vue:3
+msgid "category"
+msgstr "category"
+
+#: src/components/ExtraTranslations.vue:5
+#: src/components/ProductDetailsText.vue:34
+msgid "chain"
+msgstr "chain"
+
+#: src/components/CartModal.vue:66
+msgid "Checking VAT number..."
+msgstr "Checking VAT number..."
+
+#: src/components/CartModal.vue:30 vue-scripts.tmp.js:460
+msgid "City"
+msgstr ""
+
+#: src/components/CartModal.vue:160 src/components/FavoritesModal.vue:79
+#: src/components/FavoritesModal.vue:97
+msgid "Close"
+msgstr "Close"
+
+#: src/components/OpeningHours.vue:12
+msgid "closed"
+msgstr "closed"
+
+#: src/components/ExtraTranslations.vue:6
+msgid "color"
+msgstr "color"
+
+#: src/components/FooterLinks.vue:8
+msgid "Conditions"
+msgstr "Conditions"
+
+#: src/components/FooterLinks.vue:11
+msgid "Contact"
+msgstr "Contact"
+
+#: src/components/ContactInfo.vue:2
+msgid "Contact Info"
+msgstr "Contact Info"
+
+#: src/components/ProductOverview.vue:26
+msgid "Custom made!"
+msgstr "Custom made!"
+
+#: src/components/ExtraTranslations.vue:7
+msgid "custommade"
+msgstr "custom made"
+
+#: src/components/OpeningHours.vue:50
+#, fuzzy
+msgid "day"
+msgstr "Friday"
+
+#: src/components/FilterList.vue:15
+msgid "delete all filters"
+msgstr "delete all filters"
+
+#: src/components/FooterLinks.vue:14
+msgid "Delivery"
+msgstr "Delivery"
+
+#: src/components/ExtraTranslations.vue:8
+#: src/components/ProductDetailsText.vue:30
+msgid "deliverytime"
+msgstr "delivery time"
+
+#: src/components/ExtraTranslations.vue:9
+msgid "density"
+msgstr "density"
+
+#: src/components/ExtraTranslations.vue:48
+msgid "desc"
+msgstr "descending"
+
+#: src/components/ExtraTranslations.vue:10
+msgid "description"
+msgstr "description"
+
+#: src/components/ExtraTranslations.vue:11
+#: src/components/ProductDetailsText.vue:18
+msgid "designer"
+msgstr "designer"
+
+#: src/components/ExtraTranslations.vue:12
+msgid "discount"
+msgstr "discount"
+
+#: src/components/CartModal.vue:25 src/components/FavoritesModal.vue:13
+#: vue-scripts.tmp.js:320 vue-scripts.tmp.js:455
+msgid "e.g. Alex Smith"
+msgstr ""
+
+#: src/components/CartModal.vue:26 src/components/FavoritesModal.vue:14
+#: vue-scripts.tmp.js:321 vue-scripts.tmp.js:456
+msgid "e.g. alex.smith@gmail.com"
+msgstr ""
+
+#: src/components/CartModal.vue:27 vue-scripts.tmp.js:457
+msgid "e.g. BE 0912 345 678"
+msgstr ""
+
+#: src/components/CartModal.vue:70
+msgid "Email"
+msgstr ""
+
+#: src/components/FavoritesModal.vue:42 src/components/Popup.vue:21
+msgid "Email or phone"
+msgstr "Email or phone"
+
+#: src/components/FooterLinks.vue:17
+msgid "FAQ"
+msgstr "FAQ"
+
+#: src/components/ActiveFilterWarning.vue:7 src/components/FilterList.vue:3
+#: src/components/FilterList.vue:10
+msgid "Filters"
+msgstr "Search"
+
+#: src/components/FavoritesList.vue:3
+msgid "forward"
+msgstr "forward"
+
+#: src/components/FavoritesModal.vue:52
+msgid "Forward to"
+msgstr "Forward to"
+
+#: src/components/ExtraTranslations.vue:34
+msgid "Friday"
+msgstr "Friday"
+
+#: src/components/ExtraTranslations.vue:45
+msgid "geel"
+msgstr "<img class=\"img-color\" src=\"static/images/geel.png\" alt=\"yellow\" />"
+
+#: src/components/ExtraTranslations.vue:43
+msgid "groen"
+msgstr "<img class=\"img-color\" src=\"static/images/groen.png\" alt=\"green\" />"
+
+#: src/components/ExtraTranslations.vue:13
+#: src/components/ProductDetailsText.vue:42
+msgid "height"
+msgstr "height"
+
+#: src/components/FavoritesList.vue:31
+msgid "home presentation"
+msgstr "home presentation"
+
+#: src/components/CartModal.vue:53
+msgid "I have a VAT number"
+msgstr "I have a VAT number"
+
+#: src/components/FavoritesModal.vue:15
+msgid "I want a presentation at home for these rugs"
+msgstr "I want a presentation at home for these rugs"
+
+#: src/components/FavoritesModal.vue:23
+msgid "I want more information about these items"
+msgstr "I want more information about these items"
+
+#: src/components/FavoritesModal.vue:3
+msgid "I want to forward this list to a friend"
+msgstr "I want to forward this list to a friend"
+
+#: src/components/FavoritesModal.vue:19
+msgid "I want to see these items in your shop"
+msgstr "I want to see these items in your shop"
+
+#: src/components/ProductDetailsText.vue:14
+msgid "id"
+msgstr "id"
+
+#: src/components/FooterLinks.vue:2
+msgid "Information"
+msgstr "Information"
+
+#: src/components/ExtraTranslations.vue:14
+#: src/components/ProductDetailsText.vue:53
+#: src/components/ProductDetailsText.vue:83
+msgid "length"
+msgstr "length"
+
+#: src/components/ExtraTranslations.vue:30
+msgid "Monday"
+msgstr "Monday"
+
+#: src/components/FavoritesList.vue:39
+msgid "more info"
+msgstr "more info"
+
+#: src/components/ExtraTranslations.vue:37
+msgid "multi"
+msgstr "<img class=\"img-color\" src=\"static/images/multi.png\" alt=\"multi\" />"
+
+#: src/components/CartModal.vue:17
+msgid "My address"
+msgstr "Addresses"
+
+#: src/components/CartList.vue:7 src/components/CartModal.vue:1
+#: src/components/CartModal.vue:11
+msgid "My cart"
+msgstr "Shopping Cart"
+
+#: src/components/FavoritesList.vue:3 src/components/FavoritesModal.vue:5
+msgid "My wishlist"
+msgstr "Wishlist"
+
+#: src/components/CartModal.vue:44
+msgid "Name"
+msgstr ""
+
+#: src/components/CartModal.vue:162
+msgid "Next step"
+msgstr "Next step"
+
+#: src/components/ExtraTranslations.vue:15
+msgid "no"
+msgstr "no"
+
+#: src/components/Popup.vue:34
+msgid "no thanks, I'm not interested"
+msgstr "no thanks, I'm not interested"
+
+#: src/components/OpeningHours.vue:2
+msgid "Opening Hours"
+msgstr "Opening Hours"
+
+#: src/components/ProductDetailsText.vue:4
+#: src/components/ProductDetailsText.vue:8
+#: src/components/ProductOverview.vue:13 src/components/SidebarProduct.vue:10
+msgid "option"
+msgstr "option"
+
+#: src/components/FooterLinks.vue:20
+msgid "Ordering"
+msgstr "Ordering"
+
+#: src/components/ExtraTranslations.vue:16
+#: src/components/ProductDetailsText.vue:22
+msgid "origin"
+msgstr "origin"
+
+#: src/components/ExtraTranslations.vue:41
+msgid "paars"
+msgstr "<img class=\"img-color\" src=\"static/images/paars.png\" alt=\"purple\" />"
+
+#: src/components/CartModal.vue:29 src/components/FooterLinks.vue:23
+msgid "Payment"
+msgstr "Payment"
+
+#: src/components/CartModal.vue:80
+msgid "Phone number"
+msgstr ""
+
+#: src/components/ExtraTranslations.vue:17
+#: src/components/ProductDetailsText.vue:38
+msgid "pool"
+msgstr "pool"
+
+#: src/components/CartModal.vue:29 vue-scripts.tmp.js:459
+msgid "Postal Code"
+msgstr ""
+
+#: src/components/ExtraTranslations.vue:18
+msgid "price"
+msgstr "price"
+
+#: src/components/ProductDisplayPrice.vue:12
+msgid "Price on demand"
+msgstr "Price on demand"
+
+#: src/components/FooterLinks.vue:26
+msgid "Privacy"
+msgstr "Privacy"
+
+#: src/components/ExtraTranslations.vue:19
+#: src/components/ProductDetailsText.vue:26
+msgid "production"
+msgstr "production"
+
+#: src/components/Popup.vue:29
+msgid "Receive e-book"
+msgstr "Receive e-book"
+
+#: src/components/Popup.vue:7
+msgid "Receive free e-book \"Spot removal\"!"
+msgstr "Receive free e-book \"Spot removal\"!"
+
+#: src/components/InfoBar.vue:16
+msgid "Recent Blog Posts"
+msgstr "Recent Blog Posts"
+
+#: src/components/RecentNews.vue:2
+msgid "Recent News"
+msgstr "Recent News"
+
+#: src/components/RecentList.vue:3
+msgid "Recently viewed"
+msgstr "Recently viewed"
+
+#: src/components/RefreshButton.vue:6
+msgid "Refresh everything"
+msgstr "Refresh everything"
+
+#: src/components/FooterLinks.vue:29
+msgid "Retour"
+msgstr "Retour"
+
+#: src/components/ExtraTranslations.vue:40
+msgid "rood"
+msgstr "<img class=\"img-color\" src=\"static/images/rood.png\" alt=\"red\" />"
+
+#: src/components/ExtraTranslations.vue:35
+msgid "Saturday"
+msgstr "Saturday"
+
+#: src/components/ExtraTranslations.vue:20
+msgid "search"
+msgstr "search"
+
+#: src/components/FavoritesList.vue:35
+msgid "see in shop"
+msgstr "see in shop"
+
+#: src/components/FavoritesModal.vue:84
+msgid "Send favorites to Ashtari"
+msgstr "Send favorites to Ashtari"
+
+#: src/components/FavoritesList.vue:50
+msgid "Send..."
+msgstr "Send..."
+
+#: src/components/ExtraTranslations.vue:21
+msgid "shape"
+msgstr "shape"
+
+#: src/components/CartModal.vue:90
+#, fuzzy
+msgid "Shipping Address"
+msgstr "Shipping Method"
+
+#: src/components/CartModal.vue:23
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+#: src/components/ProductDetailsText.vue:3
+#: src/components/ProductDetailsText.vue:7
+#: src/components/ProductDetailsText.vue:96
+#: src/components/ProductOverview.vue:16
+msgid "sold"
+msgstr "sold"
+
+#: src/components/Sorters.vue:2
+msgid "Sort by"
+msgstr "Sort by"
+
+#: src/components/Sorters.vue:22
+msgid "sorter"
+msgstr ""
+
+#: src/components/FilterList.vue:1
+msgid "Stay open"
+msgstr "Stay open"
+
+#: src/components/CartModal.vue:28 vue-scripts.tmp.js:458
+msgid "Street and house number"
+msgstr ""
+
+#: src/components/ExtraTranslations.vue:4
+msgid "subcategory"
+msgstr "subcategory"
+
+#: src/components/ExtraTranslations.vue:22
+msgid "subtitle"
+msgstr "subtitle"
+
+#: src/components/ExtraTranslations.vue:29
+msgid "Sunday"
+msgstr "Sunday"
+
+#: src/components/ExtraTranslations.vue:23
+msgid "supplier"
+msgstr "supplier"
+
+#: src/components/Thanks.vue:6
+msgid "Thank you for your order! We'll get right on it."
+msgstr "Thank you for your order! We'll get right on it."
+
+#: src/components/FavoritesModal.vue:92 src/components/Thanks.vue:5
+msgid "Thank you!"
+msgstr "Thank you!"
+
+#: src/components/ProductList.vue:11
+msgid "There's a problem with the server. We're retrying every 10 seconds."
+msgstr "There's a problem with the server. We're retrying every 10 seconds."
+
+#: src/components/FavoritesModal.vue:93
+msgid "These favorites are sent."
+msgstr "These favorites are sent."
+
+#: src/components/ExtraTranslations.vue:24
+#: src/components/ProductDetailsText.vue:46
+msgid "thickness"
+msgstr "thickness"
+
+#: src/components/ProductFilter.vue:19
+msgid "this"
+msgstr ""
+
+#: src/components/CartModal.vue:77
+msgid "This email address is invalid"
+msgstr "This email address is invalid"
+
+#: src/components/CartModal.vue:87
+msgid "This phone number is invalid"
+msgstr "This phone number is invalid"
+
+#: src/components/ProductDetailsText.vue:50
+msgid "This rug is custom made for you. Please enter your preferred dimensions:"
+msgstr "This rug is custom made for you. Please enter your preferred dimensions:"
+
+#: src/components/CartModal.vue:65
+msgid "This VAT number is invalid"
+msgstr "This VAT number is invalid"
+
+#: src/components/ExtraTranslations.vue:33
+msgid "Thursday"
+msgstr "Thursday"
+
+#: src/components/ExtraTranslations.vue:25
+msgid "title"
+msgstr "title"
+
+#: src/components/CartSummary.vue:5
+msgid "Total (VAT excl.)"
+msgstr "Total (VAT excl.)"
+
+#: src/components/CartSummary.vue:10
+msgid "Total (VAT incl.)"
+msgstr "Total (VAT incl.)"
+
+#: src/components/ExtraTranslations.vue:31
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: src/components/FilterList.vue:12
+msgid "Use filters to find the product you want"
+msgstr "Use these filters to find the product you want"
+
+#: src/components/ActiveFilterWarning.vue:66
+#: src/components/ActiveFilterWarning.vue:73
+msgid "v"
+msgstr ""
+
+#: src/components/FilterCheckbox.vue:15
+msgid "value"
+msgstr ""
+
+#: src/components/CartSummary.vue:8
+msgid "VAT"
+msgstr "VAT"
+
+#: src/components/CartModal.vue:58
+#, fuzzy
+msgid "VAT number"
+msgstr "I have a VAT number"
+
+#: src/components/FooterLinks.vue:32
+msgid "Warranty"
+msgstr "Warranty"
+
+#: src/components/OpeningHours.vue:5
+msgid "We are now closed"
+msgstr "We are now closed"
+
+#: src/components/OpeningHours.vue:4
+msgid "We are now open"
+msgstr "We are now open"
+
+#: src/components/FavoritesModal.vue:94
+msgid "We'll contact you as soon as possible."
+msgstr "We'll contact you as soon as possible."
+
+#: src/components/ExtraTranslations.vue:32
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: src/components/ExtraTranslations.vue:26
+#: src/components/ProductDetailsText.vue:68
+#: src/components/ProductDetailsText.vue:87
+msgid "width"
+msgstr "width"
+
+#: src/components/ExtraTranslations.vue:38
+msgid "wit"
+msgstr "<img class=\"img-color\" src=\"static/images/wit.png\" alt=\"white\" />"
+
+#: src/components/ExtraTranslations.vue:27
+msgid "yes"
+msgstr "yes"
+
+#: src/components/Thanks.vue:7
+msgid "You ordered:"
+msgstr "You ordered:"
+
+#: src/components/CartModal.vue:37
+msgid "Your cart is empty."
+msgstr "Your cart is empty."
+
+#: src/components/ProductOverview.vue:28
+msgid "Your dimensions:"
+msgstr "Your dimensions:"
+
+#: src/components/FavoritesModal.vue:32 src/components/Popup.vue:16
+msgid "Your name"
+msgstr "Your name"
+
+#: src/components/ExtraTranslations.vue:39
+msgid "zwart"
+msgstr "<img class=\"img-color\" src=\"static/images/zwart.png\" alt=\"black\" />"

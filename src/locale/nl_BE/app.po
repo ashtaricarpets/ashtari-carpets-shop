@@ -1,0 +1,586 @@
+# Dutch translations for frontend2 package
+# Nederlandse vertalingen voor het pakket frontend2.
+# Copyright (C) 2017 THE frontend2'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the frontend2 package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: frontend2 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-11 17:57+0100\n"
+"PO-Revision-Date: 2018-12-21 22:17+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: src/components/ActiveFilterWarning.vue:12
+msgid "Active filter:"
+msgid_plural "Active filters:"
+msgstr[0] "Actieve filter"
+msgstr[1] "Actieve filters"
+
+#: src/components/ActiveFilterWarning.vue:58
+#: src/components/ActiveFilterWarning.vue:64
+#: src/components/ActiveFilterWarning.vue:71
+#: src/components/ActiveFilterWarning.vue:78
+#, fuzzy
+msgid "activeFilter"
+msgstr "Actieve filter"
+
+#: src/components/ExtraTranslations.vue:2
+msgid "age"
+msgstr "ouderdom"
+
+#: src/components/ExtraTranslations.vue:47
+msgid "asc"
+msgstr "van laag naar hoog"
+
+#: src/components/FooterLinks.vue:5
+msgid "B2B"
+msgstr "B2B"
+
+#: src/components/BackButton.vue:5
+msgid "Back"
+msgstr "Terug"
+
+#: src/components/CartModal.vue:114
+msgid "Billing Address"
+msgstr "Facturatieadres"
+
+#: src/components/CartModal.vue:141
+msgid "Billing and shipping address are the same"
+msgstr "Facturatie- en verzendadres zijn hetzelfde"
+
+#: src/components/ExtraTranslations.vue:44
+msgid "blauw"
+msgstr "<img class=\"img-color\" src=\"static/images/blauw.png\" alt=\"blauw\" />"
+
+#: src/components/ExtraTranslations.vue:42
+msgid "bruin"
+msgstr "<img class=\"img-color\" src=\"static/images/bruin.png\" alt=\"bruin\" />"
+
+#: src/components/ExtraTranslations.vue:3
+msgid "category"
+msgstr "categorie"
+
+#: src/components/ExtraTranslations.vue:5
+#: src/components/ProductDetailsText.vue:34
+msgid "chain"
+msgstr "ketting"
+
+#: src/components/CartModal.vue:66
+msgid "Checking VAT number..."
+msgstr "BTW-nummer controleren…"
+
+#: src/components/CartModal.vue:30 vue-scripts.tmp.js:460
+msgid "City"
+msgstr "Gemeente"
+
+#: src/components/CartModal.vue:160 src/components/FavoritesModal.vue:79
+#: src/components/FavoritesModal.vue:97
+msgid "Close"
+msgstr "Sluiten"
+
+#: src/components/OpeningHours.vue:12
+msgid "closed"
+msgstr "Gesloten"
+
+#: src/components/ExtraTranslations.vue:6
+msgid "color"
+msgstr "kleur"
+
+#: src/components/FooterLinks.vue:8
+msgid "Conditions"
+msgstr "Voorwaarden"
+
+#: src/components/FooterLinks.vue:11
+msgid "Contact"
+msgstr "Contact"
+
+#: src/components/ContactInfo.vue:2
+msgid "Contact Info"
+msgstr "Contact"
+
+#: src/components/ProductOverview.vue:26
+msgid "Custom made!"
+msgstr "Op maat gemaakt!"
+
+#: src/components/ExtraTranslations.vue:7
+msgid "custommade"
+msgstr "op maat gemaakt"
+
+#: src/components/OpeningHours.vue:50
+#, fuzzy
+msgid "day"
+msgstr "Vrijdag"
+
+#: src/components/FilterList.vue:15
+msgid "delete all filters"
+msgstr "verwijder alle filters"
+
+#: src/components/FooterLinks.vue:14
+msgid "Delivery"
+msgstr "Levering"
+
+#: src/components/ExtraTranslations.vue:8
+#: src/components/ProductDetailsText.vue:30
+msgid "deliverytime"
+msgstr "levertijd"
+
+#: src/components/ExtraTranslations.vue:9
+msgid "density"
+msgstr "knoopdichtheid"
+
+#: src/components/ExtraTranslations.vue:48
+msgid "desc"
+msgstr "van hoog naar laag"
+
+#: src/components/ExtraTranslations.vue:10
+msgid "description"
+msgstr "beschrijving"
+
+#: src/components/ExtraTranslations.vue:11
+#: src/components/ProductDetailsText.vue:18
+msgid "designer"
+msgstr "ontwerper"
+
+#: src/components/ExtraTranslations.vue:12
+msgid "discount"
+msgstr "korting"
+
+#: src/components/CartModal.vue:25 src/components/FavoritesModal.vue:13
+#: vue-scripts.tmp.js:320 vue-scripts.tmp.js:455
+msgid "e.g. Alex Smith"
+msgstr "bvb. Jan Janssens"
+
+#: src/components/CartModal.vue:26 src/components/FavoritesModal.vue:14
+#: vue-scripts.tmp.js:321 vue-scripts.tmp.js:456
+msgid "e.g. alex.smith@gmail.com"
+msgstr "bvb. jan.janssens@gmail.com"
+
+#: src/components/CartModal.vue:27 vue-scripts.tmp.js:457
+msgid "e.g. BE 0912 345 678"
+msgstr "bvb. BE 0912 345 678"
+
+#: src/components/CartModal.vue:70
+msgid "Email"
+msgstr "Email"
+
+#: src/components/FavoritesModal.vue:42 src/components/Popup.vue:21
+msgid "Email or phone"
+msgstr "Email of telefoon"
+
+#: src/components/FooterLinks.vue:17
+msgid "FAQ"
+msgstr "FAQ"
+
+#: src/components/ActiveFilterWarning.vue:7 src/components/FilterList.vue:3
+#: src/components/FilterList.vue:10
+msgid "Filters"
+msgstr "Zoeken"
+
+#: src/components/FavoritesList.vue:3
+msgid "forward"
+msgstr "doorsturen"
+
+#: src/components/FavoritesModal.vue:52
+msgid "Forward to"
+msgstr "Doorsturen naar"
+
+#: src/components/ExtraTranslations.vue:34
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: src/components/ExtraTranslations.vue:45
+msgid "geel"
+msgstr "<img class=\"img-color\" src=\"static/images/geel.png\" alt=\"geel\" />"
+
+#: src/components/ExtraTranslations.vue:43
+msgid "groen"
+msgstr "<img class=\"img-color\" src=\"static/images/groen.png\" alt=\"groen\" />"
+
+#: src/components/ExtraTranslations.vue:13
+#: src/components/ProductDetailsText.vue:42
+msgid "height"
+msgstr "hoogte"
+
+#: src/components/FavoritesList.vue:31
+msgid "home presentation"
+msgstr "thuispresentatie"
+
+#: src/components/CartModal.vue:53
+msgid "I have a VAT number"
+msgstr "Ik heb een BTW-nummer"
+
+#: src/components/FavoritesModal.vue:15
+msgid "I want a presentation at home for these rugs"
+msgstr "Ik wil een thuispresentatie voor deze tapijten"
+
+#: src/components/FavoritesModal.vue:23
+msgid "I want more information about these items"
+msgstr "Ik wil meer informatie over deze producten"
+
+#: src/components/FavoritesModal.vue:3
+msgid "I want to forward this list to a friend"
+msgstr "Ik wil deze lijst doorsturen naar iemand"
+
+#: src/components/FavoritesModal.vue:19
+msgid "I want to see these items in your shop"
+msgstr "Ik wil deze producten komen bekijken in de winkel"
+
+#: src/components/ProductDetailsText.vue:14
+msgid "id"
+msgstr "artikelnummer"
+
+#: src/components/FooterLinks.vue:2
+msgid "Information"
+msgstr "Informatie"
+
+#: src/components/ExtraTranslations.vue:14
+#: src/components/ProductDetailsText.vue:53
+#: src/components/ProductDetailsText.vue:83
+msgid "length"
+msgstr "lengte"
+
+#: src/components/ExtraTranslations.vue:30
+msgid "Monday"
+msgstr "Maandag"
+
+#: src/components/FavoritesList.vue:39
+msgid "more info"
+msgstr "meer info"
+
+#: src/components/ExtraTranslations.vue:37
+msgid "multi"
+msgstr "<img class=\"img-color\" src=\"static/images/multi.png\" alt=\"multi\" />"
+
+#: src/components/CartModal.vue:17
+msgid "My address"
+msgstr "Adresgegevens"
+
+#: src/components/CartList.vue:7 src/components/CartModal.vue:1
+#: src/components/CartModal.vue:11
+msgid "My cart"
+msgstr "Winkelwagen"
+
+#: src/components/FavoritesList.vue:3 src/components/FavoritesModal.vue:5
+msgid "My wishlist"
+msgstr "Wishlist"
+
+#: src/components/CartModal.vue:44
+msgid "Name"
+msgstr "Naam"
+
+#: src/components/CartModal.vue:162
+msgid "Next step"
+msgstr "Volgende stap"
+
+#: src/components/ExtraTranslations.vue:15
+msgid "no"
+msgstr "nee"
+
+#: src/components/Popup.vue:34
+msgid "no thanks, I'm not interested"
+msgstr "nee, dit interesseert me niet"
+
+#: src/components/OpeningHours.vue:2
+msgid "Opening Hours"
+msgstr "Openingsuren"
+
+#: src/components/ProductDetailsText.vue:4
+#: src/components/ProductDetailsText.vue:8
+#: src/components/ProductOverview.vue:13 src/components/SidebarProduct.vue:10
+msgid "option"
+msgstr "optie"
+
+#: src/components/FooterLinks.vue:20
+msgid "Ordering"
+msgstr "Bestellen"
+
+#: src/components/ExtraTranslations.vue:16
+#: src/components/ProductDetailsText.vue:22
+msgid "origin"
+msgstr "oorsprong"
+
+#: src/components/ExtraTranslations.vue:41
+msgid "paars"
+msgstr "<img class=\"img-color\" src=\"static/images/paars.png\" alt=\"paars\" />"
+
+#: src/components/CartModal.vue:29 src/components/FooterLinks.vue:23
+msgid "Payment"
+msgstr "Betaling"
+
+#: src/components/CartModal.vue:80
+msgid "Phone number"
+msgstr "Telefoon"
+
+#: src/components/ExtraTranslations.vue:17
+#: src/components/ProductDetailsText.vue:38
+msgid "pool"
+msgstr "pool"
+
+#: src/components/CartModal.vue:29 vue-scripts.tmp.js:459
+msgid "Postal Code"
+msgstr "Postcode"
+
+#: src/components/ExtraTranslations.vue:18
+msgid "price"
+msgstr "prijs"
+
+#: src/components/ProductDisplayPrice.vue:12
+msgid "Price on demand"
+msgstr "Prijs op aanvraag"
+
+#: src/components/FooterLinks.vue:26
+msgid "Privacy"
+msgstr "Privacy"
+
+#: src/components/ExtraTranslations.vue:19
+#: src/components/ProductDetailsText.vue:26
+msgid "production"
+msgstr "productie"
+
+#: src/components/Popup.vue:29
+msgid "Receive e-book"
+msgstr "Ontvang e-book"
+
+#: src/components/Popup.vue:7
+msgid "Receive free e-book \"Spot removal\"!"
+msgstr "Ontvang gratis e-book “Vlekkenwijzer”!"
+
+#: src/components/InfoBar.vue:16
+msgid "Recent Blog Posts"
+msgstr "Recente blogposts"
+
+#: src/components/RecentNews.vue:2
+msgid "Recent News"
+msgstr "Recent nieuws"
+
+#: src/components/RecentList.vue:3
+msgid "Recently viewed"
+msgstr "Recent bekeken"
+
+#: src/components/RefreshButton.vue:6
+msgid "Refresh everything"
+msgstr "Ververs alles"
+
+#: src/components/FooterLinks.vue:29
+msgid "Retour"
+msgstr "Terugzenden"
+
+#: src/components/ExtraTranslations.vue:40
+msgid "rood"
+msgstr "<img class=\"img-color\" src=\"static/images/rood.png\" alt=\"rood\" />"
+
+#: src/components/ExtraTranslations.vue:35
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: src/components/ExtraTranslations.vue:20
+msgid "search"
+msgstr "zoeken"
+
+#: src/components/FavoritesList.vue:35
+msgid "see in shop"
+msgstr "bekijken in winkel"
+
+#: src/components/FavoritesModal.vue:84
+msgid "Send favorites to Ashtari"
+msgstr "Verstuur"
+
+#: src/components/FavoritesList.vue:50
+msgid "Send..."
+msgstr "Versturen…"
+
+#: src/components/ExtraTranslations.vue:21
+msgid "shape"
+msgstr "vorm"
+
+#: src/components/CartModal.vue:90
+msgid "Shipping Address"
+msgstr "Verzendadres"
+
+#: src/components/CartModal.vue:23
+msgid "Shipping Method"
+msgstr "Verzendmethode"
+
+#: src/components/ProductDetailsText.vue:3
+#: src/components/ProductDetailsText.vue:7
+#: src/components/ProductDetailsText.vue:96
+#: src/components/ProductOverview.vue:16
+msgid "sold"
+msgstr "verkocht"
+
+#: src/components/Sorters.vue:2
+msgid "Sort by"
+msgstr "Sorteer op"
+
+#: src/components/Sorters.vue:22
+msgid "sorter"
+msgstr ""
+
+#: src/components/FilterList.vue:1
+msgid "Stay open"
+msgstr "Blijf open"
+
+#: src/components/CartModal.vue:28 vue-scripts.tmp.js:458
+msgid "Street and house number"
+msgstr "Straat en huisnummer"
+
+#: src/components/ExtraTranslations.vue:4
+msgid "subcategory"
+msgstr "subcategorie"
+
+#: src/components/ExtraTranslations.vue:22
+msgid "subtitle"
+msgstr "ondertitel"
+
+#: src/components/ExtraTranslations.vue:29
+msgid "Sunday"
+msgstr "Zondag"
+
+#: src/components/ExtraTranslations.vue:23
+msgid "supplier"
+msgstr "leverancier"
+
+#: src/components/Thanks.vue:6
+msgid "Thank you for your order! We'll get right on it."
+msgstr "Bedankt voor uw bestelling! We beginnen er direct aan."
+
+#: src/components/FavoritesModal.vue:92 src/components/Thanks.vue:5
+msgid "Thank you!"
+msgstr "Bedankt!"
+
+#: src/components/ProductList.vue:11
+msgid "There's a problem with the server. We're retrying every 10 seconds."
+msgstr "Er is een probleem met de server. We proberen elke 10 seconden opnieuw."
+
+#: src/components/FavoritesModal.vue:93
+msgid "These favorites are sent."
+msgstr "Uw favorieten zijn verzonden."
+
+#: src/components/ExtraTranslations.vue:24
+#: src/components/ProductDetailsText.vue:46
+msgid "thickness"
+msgstr "dikte"
+
+#: src/components/ProductFilter.vue:19
+msgid "this"
+msgstr ""
+
+#: src/components/CartModal.vue:77
+msgid "This email address is invalid"
+msgstr "Dit is geen geldig email-adres"
+
+#: src/components/CartModal.vue:87
+msgid "This phone number is invalid"
+msgstr "Dit is geen geldig telefoonnummer"
+
+#: src/components/ProductDetailsText.vue:50
+msgid "This rug is custom made for you. Please enter your preferred dimensions:"
+msgstr "Dit tapijt wordt voor u op maat gemaakt. Geef de gewenste afmetingen op:"
+
+#: src/components/CartModal.vue:65
+msgid "This VAT number is invalid"
+msgstr "Dit is geen geldig BTW-nummer"
+
+#: src/components/ExtraTranslations.vue:33
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: src/components/ExtraTranslations.vue:25
+msgid "title"
+msgstr "titel"
+
+#: src/components/CartSummary.vue:5
+msgid "Total (VAT excl.)"
+msgstr "Totaal (excl. BTW)"
+
+#: src/components/CartSummary.vue:10
+msgid "Total (VAT incl.)"
+msgstr "Totaal (incl. BTW)"
+
+#: src/components/ExtraTranslations.vue:31
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: src/components/FilterList.vue:12
+msgid "Use filters to find the product you want"
+msgstr "Gebruik deze filters om de producten te vinden die u zoekt"
+
+#: src/components/ActiveFilterWarning.vue:66
+#: src/components/ActiveFilterWarning.vue:73
+msgid "v"
+msgstr ""
+
+#: src/components/FilterCheckbox.vue:15
+msgid "value"
+msgstr ""
+
+#: src/components/CartSummary.vue:8
+msgid "VAT"
+msgstr "BTW"
+
+#: src/components/CartModal.vue:58
+msgid "VAT number"
+msgstr "BTW-nummer"
+
+#: src/components/FooterLinks.vue:32
+msgid "Warranty"
+msgstr "Garantie"
+
+#: src/components/OpeningHours.vue:5
+msgid "We are now closed"
+msgstr "We zijn nu gesloten"
+
+#: src/components/OpeningHours.vue:4
+msgid "We are now open"
+msgstr "We zijn nu open"
+
+#: src/components/FavoritesModal.vue:94
+msgid "We'll contact you as soon as possible."
+msgstr "We contacteren u zo snel mogelijk."
+
+#: src/components/ExtraTranslations.vue:32
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: src/components/ExtraTranslations.vue:26
+#: src/components/ProductDetailsText.vue:68
+#: src/components/ProductDetailsText.vue:87
+msgid "width"
+msgstr "breedte"
+
+#: src/components/ExtraTranslations.vue:38
+msgid "wit"
+msgstr "<img class=\"img-color\" src=\"static/images/wit.png\" alt=\"wit\" />"
+
+#: src/components/ExtraTranslations.vue:27
+msgid "yes"
+msgstr "ja"
+
+#: src/components/Thanks.vue:7
+msgid "You ordered:"
+msgstr "U bestelde:"
+
+#: src/components/CartModal.vue:37
+msgid "Your cart is empty."
+msgstr "Uw winkelwagen is leeg."
+
+#: src/components/ProductOverview.vue:28
+msgid "Your dimensions:"
+msgstr "Uw afmetingen:"
+
+#: src/components/FavoritesModal.vue:32 src/components/Popup.vue:16
+msgid "Your name"
+msgstr "Uw naam"
+
+#: src/components/ExtraTranslations.vue:39
+msgid "zwart"
+msgstr "<img class=\"img-color\" src=\"static/images/zwart.png\" alt=\"zwart\" />"
